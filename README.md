@@ -1,3 +1,3 @@
 #AOC 2023
 
-Gidder ikke rydde opp i koden etter riktig svar, så det er litt clutter i koden
+Jeg rydder ikke opp i filene etter jeg har funnet riktig svar, med et håp om at det kanskje viser hvordan jeg har tenkt og fremgangsmåten.Filene må kjøres fra rot-mappa.
